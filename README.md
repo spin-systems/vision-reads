@@ -8,9 +8,11 @@ maintaining domain focus in computer vision while giving license for side excurs
 
 :seedling: :no_mouth: :eyes: :ear_of_rice: :high_brightness: :flashlight: :bulb:
 
-> ### _ears of rice, the river mouth, brightness, bloom, and bulbs_
+> ### _brightness, bloom, and bulbs_
 
 by more fruitful I mean to say that these processes of the industrial world evoke a fuller sensorium when giving nature its due diligence.
+
+- As a systems biology student, I find myself compelled to expose these isomorphisms, from electrical engineering to bioenergetic signalling and so on. Hopefully I'll do so clearly in this project :simple_smile:
 
 Studying memory and our models of how the brain processes suggests to me that this broad-minded approach gives thought - in the immediate moment - constructive feedback. It's also encouragingly found in the range of subject matter in early ‘_cybernetics_’; control theorists, engineers & co., from Weiner to Conway
 
