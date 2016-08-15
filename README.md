@@ -17,7 +17,3 @@ by more fruitful I mean to say that these processes of the industrial world evok
 Studying memory and our models of how the brain processes suggests to me that this broad-minded approach gives thought - in the immediate moment - constructive feedback. It's also encouragingly found in the range of subject matter in early ‘_cybernetics_’; control theorists, engineers & co., from Weiner to Conway
 
 I'd propose biology merits a continued grounding in this field, not least to benefit the eyes and minds of future scientists.
-
-<!--
-[:herb:»](https://github.com/lmmx/staticks/wiki/Green-imperialism)
--->
