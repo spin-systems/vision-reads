@@ -4,7 +4,7 @@ Readings in computer vision
 
 ### _ever and anon from life science angles,_ 
 
-maintaining domain focus in computer vision while giving license for side excursions to indulge biological models and/or functional analogies: neural networks have clearly made the crossover, while computer scientists are less open to parse neurodegeneration, sensorimotor disorder etc. from such (important, moreover fruitful) outlooks 
+maintaining domain focus in computer vision while giving license for side excursions to indulge biological models and/or functional analogies: neural networks have clearly made the crossover, while computer scientists are less open to parse neurodegeneration, sensorimotor disorder etc. from such important (moreover, fruitful) outlooks 
 
 :seedling: :no_mouth: :eyes: :ear_of_rice: :high_brightness: :flashlight: :bulb:
 
