@@ -10,7 +10,7 @@ maintaining domain focus in computer vision while giving license for side excurs
 
 > ### _brightness, bloom, and bulbs_
 
-by more fruitful I mean to say that these processes of the industrial world evoke a fuller sensorium when giving nature its due diligence.
+by more fruitful I mean to say that these processes of the industrial world evoke a fuller sensorium when giving nature its due.
 
 - As a systems biology student, I find myself compelled to expose these isomorphisms, from electrical engineering to bioenergetic signalling and so on. Hopefully I'll do so clearly in this project :grinning:
 
