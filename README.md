@@ -12,7 +12,7 @@ maintaining domain focus in computer vision while giving license for side excurs
 
 by more fruitful I mean to say that these processes of the industrial world evoke a fuller sensorium when giving nature its due.
 
-- As a systems biology student, I find myself compelled to expose these isomorphisms, from electrical engineering to bioenergetic signalling and so on. Hopefully I'll do so clearly in this project :grinning:
+- As a systems biology student, I find myself compelled to expose these isomorphisms, from electrical engineering to bioenergetic signalling and so on. Hopefully my writing is clear enough for readers to follow these routes too :grinning:
 
 Studying memory and our models of how the brain processes suggests to me that this broad-minded approach gives thought - in the immediate moment - constructive feedback. It's also encouragingly found in the range of subject matter in early ‘_cybernetics_’; control theorists, engineers & co., from Weiner to Conway
 
